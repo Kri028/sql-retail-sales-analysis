@@ -106,7 +106,7 @@ GitHub for Version Control
 
 Clone the repository:
 
-git clone https://github.com/yourusername/retail-sales-analysis.git
+git clone https://github.com/kri028/retail-sales-analysis.git
 
 Import the dataset into MySQL.
 
